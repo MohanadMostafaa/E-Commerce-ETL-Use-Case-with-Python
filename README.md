@@ -34,37 +34,6 @@ The project is organized into several stages:
    - Run `modeling.py` script to conduct exploratory data analysis (EDA) and visualize insights.
    - The script reads cleaned data from staging directories and generates visualizations for further analysis.
 
-## How to Run
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone <repository_url>
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd project/
-    ```
-
-3. Install required Python packages:
-
-    ```bash
-    pip install pandas matplotlib seaborn
-    ```
-
-4. Execute the ETL script:
-
-    ```bash
-    python etl.py
-    ```
-
-5. Execute the modeling script:
-
-    ```bash
-    python modeling.py
-    ```
 
 
 
